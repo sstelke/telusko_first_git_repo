@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Practice
 
 test1
+=======
+hello for test1
+>>>>>>> 8095c166a1eeb71d71490717beda6ec5ce1b7ffe
