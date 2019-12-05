@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Welcome to Git
 
 test2
 
+=======
+Practice
+
+test2
+>>>>>>> 014d01a24cc1316e9b1885d075f9795cff8a8795
